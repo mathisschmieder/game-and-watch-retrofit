@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "game-watch")(type "KiCad")(uri "${KIPRJMOD}/game-watch.pretty")(options "")(descr ""))
+)
